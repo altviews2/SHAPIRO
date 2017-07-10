@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-07-04_0046",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 54,
+    "uniqCompNum": 56,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -43,6 +43,19 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "60px"
+            },
+            "P": {
+              "text-align": "left",
+              "font-size": "24px",
+              "color": "#7c706b"
+            }
+          },
           "_anchor": "msg-box5-14",
           "_params": {
             "imageSize": "56",
@@ -89,20 +102,7 @@
           },
           "title": "CASEY JOY SHAPIRO",
           "text": "&nbsp; ::::MONTREAL ARTIST",
-          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a> ",
-          "_styles": {
-            "H3": {
-              "text-align": "center",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "60px"
-            },
-            "P": {
-              "text-align": "left",
-              "font-size": "24px",
-              "color": "#7c706b"
-            }
-          }
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a> "
         },
         {
           "_styles": {
@@ -173,8 +173,8 @@
           ],
           "_name": "gallery3",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingTop": "3",
+            "paddingBottom": "2",
             "images": [
               {
                 "tags": "Responsive",
@@ -183,7 +183,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/17202731-10158562658875105-8976454004263315540-n-2000x1713-800x685.jpg",
                 "image": "@PROJECT_PATH@/assets/images/17202731-10158562658875105-8976454004263315540-n-2000x1713.jpg",
-                "caption": "Type caption here",
+                "caption": "$750 (24\" x 30\")",
                 "active": false
               },
               {
@@ -193,7 +193,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-2000x1869-800x747.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-2000x1869.jpg",
-                "caption": "Type caption",
+                "caption": "SOLD (20\" x 24\")",
                 "active": false
               },
               {
@@ -203,7 +203,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-2000x2013-800x805.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-2000x2013.jpg",
-                "caption": "Type caption here",
+                "caption": "$100 (12\" x 16\")",
                 "active": false
               },
               {
@@ -213,7 +213,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-2000x1875-800x750.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-2000x1875.jpg",
-                "caption": "Type caption here",
+                "caption": "$150 (10\" x 30\")",
                 "active": false
               },
               {
@@ -223,7 +223,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-2000x1850-800x740.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-2000x1850.jpg",
-                "caption": "Type caption here",
+                "caption": "$300 (18\" x 36\")",
                 "active": false
               },
               {
@@ -233,7 +233,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-2000x1705-800x682.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-2000x1705.jpg",
-                "caption": "Type caption here",
+                "caption": "$400 (15\" x 30\")",
                 "active": false
               },
               {
@@ -243,7 +243,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-2000x1894-800x757.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-2000x1894.jpg",
-                "caption": "Type caption here",
+                "caption": "$150 (8\" x 30\")",
                 "active": false
               },
               {
@@ -253,7 +253,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-2000x1646-800x658.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-2000x1646.jpg",
-                "caption": "Type caption here",
+                "caption": "$500 (15\" x 30\")",
                 "active": false
               },
               {
@@ -263,7 +263,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-2000x1820-800x728.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-2000x1820.jpg",
-                "caption": "Type caption here",
+                "caption": "SOLD (20\" x 28\")",
                 "active": false
               },
               {
@@ -271,10 +271,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2000x2019-800x807.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2000x2019.jpg",
-                "caption": "Type caption here",
-                "active": false
+                "thumb": "@PROJECT_PATH@/assets/images/img-2000x1786-800x714.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2000x1786.jpg",
+                "caption": "SOLD (12\" x16\")",
+                "active": true
               },
               {
                 "tags": "Responsive",
@@ -283,7 +283,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-2000x1664-800x665.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-2000x1664.jpg",
-                "caption": "Type caption here",
+                "caption": "$650 (18\" x 36\")",
                 "active": false
               },
               {
@@ -293,8 +293,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-2000x1695-800x678.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-2000x1695.jpg",
-                "caption": "Type caption here",
-                "active": true
+                "caption": "SOLD (20\" x 24\")",
+                "active": false
               },
               {
                 "tags": "Responsive",
@@ -303,7 +303,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-1-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-1-2000x1500.jpg",
-                "caption": "Type caption here",
+                "caption": "$150 (10\" x 30\")",
                 "active": false
               },
               {
@@ -313,7 +313,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-2000x1708-800x683.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-2000x1708.jpg",
-                "caption": "Type caption here",
+                "caption": "$450 (15\" x 30\")",
                 "active": false
               },
               {
@@ -321,9 +321,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2-2000x1500.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2000x1749-800x699.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2000x1749.jpg",
+                "caption": "$400 (16\" x 20\")",
                 "active": false
               },
               {
@@ -333,11 +333,11 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-2000x1529-800x611.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-2000x1529.jpg",
-                "caption": "Type caption here",
+                "caption": "$250 (18\" x 36\")",
                 "active": false
               }
             ],
-            "spacing": 1,
+            "spacing": "0",
             "showText": true,
             "filter": false,
             "bgColor": "#ffffff",
@@ -348,6 +348,63 @@
           "_anchor": "gallery3-13",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-1j",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "CONTACT FORM",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "form": {
+            "action": "shaiopr@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
         }
       ]
     },
@@ -362,6 +419,17 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            "SMALL": {
+              "color": "#cccccc"
+            }
+          },
           "_anchor": "form1-1b",
           "_params": {
             "labelsColor": "#ffffff",
@@ -407,18 +475,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND EMAIL</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#ffffff"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            },
-            "SMALL": {
-              "color": "#cccccc"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND EMAIL</a>"
         },
         {
           "_inherit": "menu",
